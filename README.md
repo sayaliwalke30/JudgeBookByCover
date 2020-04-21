@@ -1,2 +1,2 @@
 # JudgeBookByCover
-Predicted the genre of the book from it's cover using convolution neural networks.
+Predicted the genre of the book from its cover using convolution neural networks.
