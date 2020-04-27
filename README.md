@@ -6,5 +6,8 @@ To tackle this problem I used the concept of transfer learning and developed a C
 I used a pre-trained network on ImageNet. By pre-training VGG16 and ResNet50 models on a very large dataset such as ImageNet, its possible to take advantage of the learned features and transfer it to other applications.
 
 #### Steps:
-##### 1] WEb scrapping book cover images from Amazon.com
+##### 1] Web scraped book cover images from Amazon.com
+##### 2] Data exploration
+##### 3] CNN from scratch
+#####
 
