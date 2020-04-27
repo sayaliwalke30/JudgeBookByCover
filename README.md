@@ -1,2 +1,2 @@
 # JudgeBookByCover
-Predicted the genre of the book from its cover using convolution neural networks (CNN )
+## Problem Statement: The goal is to determine if genre information can be learned based on the visual aspects of a cover created by the designer. 
