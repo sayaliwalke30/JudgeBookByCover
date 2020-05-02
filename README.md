@@ -1,5 +1,10 @@
 # JudgeBookByCover
 ### Problem Statement: The goal is to determine if genre information can be learned based on the visual aspects of a cover created by the designer. 
+### /**
+
+### author Sayali Walke
+
+### **/
 
 ### Solution:
 To tackle this problem I used the concept of transfer learning and developed a Convolutional Neural Networks (CNN) based system for book cover genre classification
